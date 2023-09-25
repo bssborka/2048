@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\x2048\x2048\bin\Debug\x2048.exe.config
+C:\Users\MSI\source\repos\x2048\x2048\bin\Debug\x2048.exe
+C:\Users\MSI\source\repos\x2048\x2048\bin\Debug\x2048.pdb
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.Properties.Resources.resources
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.exe
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.pdb
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.Form1.resources
+C:\Users\MSI\source\repos\x2048\x2048\obj\Debug\x2048.Form2.resources
